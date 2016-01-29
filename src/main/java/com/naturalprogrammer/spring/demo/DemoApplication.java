@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * A comment
+ * Another comment
  * @author Peter
  *
  */
